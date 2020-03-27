@@ -1,0 +1,20 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyDg1q_qO5wIJoo2M7EgdcTtvBNaPMAzsRc",
+    authDomain: "socialfire-21bf6.firebaseapp.com",
+    databaseURL: "https://socialfire-21bf6.firebaseio.com",
+    projectId: "socialfire-21bf6",
+    storageBucket: "socialfire-21bf6.appspot.com",
+    messagingSenderId: "490621969920",
+    appId: "1:490621969920:web:b1dc40b2406cd39bd45ae5"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
